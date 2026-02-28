@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <title>
-   Dr. Priya Sharma - Academic Scholar &amp; Educator
+   Mr.V.GURUDATTATRAYAN - Assistant Professor &amp; Educator
   </title>
   <script src="https://cdn.tailwindcss.com">
   </script>
